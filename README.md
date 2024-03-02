@@ -1,6 +1,10 @@
 # sveltekit-tailwind
 ## Introduce
 This is a sample project built using sveltekit and tailwindcss (& daisyui).
+## Strat up
+```bash
+
+```
 
 ## Developing
 ```bash

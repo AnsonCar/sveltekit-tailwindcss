@@ -2,4 +2,7 @@
 	import "../app.css";
 </script>
 
-<slot />
+<div id="app" class="size-full">
+	<slot><!-- optional fallback --></slot>
+</div>
+

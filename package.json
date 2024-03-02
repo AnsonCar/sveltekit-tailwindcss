@@ -2,7 +2,7 @@
 	"name": "svelte-tailwind",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "vite dev",
+		"dev": "vite dev --host",
 		"build": "vite build",
 		"preview": "vite preview"
 	},
@@ -20,5 +20,8 @@
 		"tailwindcss": "^3.4.1",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"preline": "^2.0.3"
+	}
 }
